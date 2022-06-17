@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.20-alpine
 LABEL maintainer="dro@arrakis.it"
 
 EXPOSE 9091
